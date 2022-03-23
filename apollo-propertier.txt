@@ -1,0 +1,3 @@
+appid=crm,order,message,sync
+sourceUrl=http://127.0.0.1:8080,http://127.0.0.2:8081
+targetUrl=http://126.0.0.1:8081,http://127.0.0.3:8080
