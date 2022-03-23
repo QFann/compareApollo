@@ -22,6 +22,7 @@ if __name__ == '__main__':
 
     # 设置tkinter窗口
     root = Tk()
+    root.title("apollo比对工具")
     # 绘制两个label,grid（）确定行列
     Label(root, text="请输入AppId：").grid(row=0, column=0)
     Label(root, text="请输入源url：").grid(row=1, column=0)
